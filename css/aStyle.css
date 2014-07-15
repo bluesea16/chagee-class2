@@ -1,12 +1,18 @@
 body{
 	margin: 0;
 	padding: 0;
-    background: url('../img/bg01.jpg') center no-repeat;
+    background: url('../img/bg01.jpg') no-repeat;
 	background-size: cover;
-	
-
-	
 }
-.hhImg{
-
+.w{
+	width: 960px;
+	margin: 0px auto 0px auto;
+	background: #555;
+}
+footer{
+	width: 100%;
+	height: 80px;
+	background: #777;
+	position: fixed;
+	bottom: 0px;
 }
